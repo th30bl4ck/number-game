@@ -248,7 +248,7 @@ Target: ${puzzle.target}
 🔥 ${streak} Day Streak
 🟩 Completed
 
-Play: yoursite.com
+Play: https://th30bl4ck.github.io/number-game/
     `.trim();
 
     navigator.clipboard.writeText(shareText);
